@@ -16,6 +16,7 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 ### HOW TO SET UP
 -------------------------------------------------------------
 * The project was built using Unity Version 2020.3
+* Prefabs folder contains all the game objects + materials. 
 * Dowload the files. 
 * Open Unity3D 
 * Drag the files into the Project window. 
@@ -26,7 +27,7 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 -------------------------------------------------------------
 * This project was built for ECS7016P Interactive Agents and Procedural Generation module assingment. 
 * The aim of the assignmet was to create a level generator and an interactive agent. 
-* The generator should use some Procedural Generation (PG) technqiues. 
+* The generator should use some Procedural Generation (PG) techniques. 
 * The agent should use some behaviour and navigation techniques. 
 
 * The aim of the agent is not to fall of the platform and land on the moving terrain. 
@@ -43,7 +44,7 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 
 
 * The Terrain Generator uses the TerrainGen.cs script located in the Generator folder (Assets > Generator > TerrainGen.cs) .
-* The level generator generates random heights and levels using a PG technqiue called Perlin Noise. This is explained and shown in the TerrainGen.cs script. 
+* The level generator generates random heights and levels using a PG technique called Perlin Noise. This is explained and shown in the TerrainGen.cs script. 
 * In the TerrainGen.cs script it uses the dimensions and heights/width of the terrain to create the perlin noise.
 
 Below shows how the inspector window should look like for the terrain:
@@ -87,7 +88,7 @@ Below shows how the inspector window should look like for the agent:
 ![image](https://user-images.githubusercontent.com/104271448/165027303-0d1c4e5b-14a3-4d45-9d1b-a6b41f81ebf4.png) ---> Enemy
 
 * The Enemy (Red Capsule) uses the AdvancedEnemy.cs script located in the Agent folder (Assets > Agent > AdvancedEnemy.cs). 
-* The Enemy uses the shooting and rotate behaviour technqiues to attack the agent. 
+* The Enemy uses the shooting and rotate behaviour techniques to attack the agent. 
 * The AdvancedEnemy.cs script explains the code. 
 
 Below shows how the inspector window should look like for the enemy:
@@ -97,9 +98,9 @@ Below shows how the inspector window should look like for the enemy:
 
 ### PROJECT IMPROVEMENTS 
 -------------------------------------------------------------
-* Implemented some different technqiues to the generator like Wave Function Collapse (WFC) or Evolutionary algorithm. 
+* Implemented some different techniques to the generator like Wave Function Collapse (WFC) or Evolutionary algorithm. 
 * The movement of the agent could be advanced using Behaviour Trees or A* algorithm. 
-* Could of used some THIRD-PARTY Assets.
+* Could have used some THIRD-PARTY Assets.
 
 
 ### REFERENCES (Tutorials to help build generator and agent) 
