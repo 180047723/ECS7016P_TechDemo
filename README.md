@@ -23,6 +23,12 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 * Inside the Scenes folder (Assets > Scenes > TechDemoScene) drag the Techdemo.unity file into the Hierarchy window. 
 * This will show the different game objects and then you can play the scene. 
 
+The Hierarchy Window should look like this: 
+
+
+![image](https://user-images.githubusercontent.com/104271448/165041652-aa4ca4b2-5398-41f4-baed-60023587cd2b.png)
+
+
 ### AIM OF PROJECT
 -------------------------------------------------------------
 * This project was built for ECS7016P Interactive Agents and Procedural Generation module assingment. 
