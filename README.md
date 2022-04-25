@@ -13,3 +13,27 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 
 
 
+
+
+
+
+
+
+
+
+###REFERENCES (Tutorials to help build generator and agent) 
+
+Terrain Generator + Perlin noise: 
+https://www.youtube.com/user/brackeys
+https://www.youtube.com/c/SebastianLague
+
+
+Agent + Navigation + Behaviours: 
+https://www.youtube.com/c/CodeMonkeyUnity  
+https://www.youtube.com/c/KeySmashStudios/videos 
+https://www.youtube.com/channel/UCIWlCE2kt0RXCJLRp8HjhiQ
+https://www.youtube.com/channel/UC5NStd0QmACnWs9DzqJ3vHg
+
+
+
+
