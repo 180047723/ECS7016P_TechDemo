@@ -30,8 +30,8 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 * The agent should use some behaviour and navigation techniques. 
 
 * The aim of the agent is not to fall of the platform and land on the moving terrain. 
-* The enemy is in control of shooting randomly at the agent trying get the agent off the platform. 
-* The agent can runs and takes cover using the walls (Yellow Cubes - as shown above). 
+* The enemy is in control of shooting randomly at the agent trying to get the agent off the platform. 
+* The agent can run and take cover using the walls (Yellow Cubes - as shown above). 
 * The terrain generator moves rapidly and is dangerous for the agent if they land on it. 
 
 
@@ -43,10 +43,10 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 
 
 * The Terrain Generator uses the TerrainGen.cs script located in the Generator folder (Assets > Generator > TerrainGen.cs) .
-* The level generator generates random heights and levels using a PG technqiue called Perlin Noise. This is commented and shown in the TerrainGen.cs script. 
+* The level generator generates random heights and levels using a PG technqiue called Perlin Noise. This is explained and shown in the TerrainGen.cs script. 
 * In the TerrainGen.cs script it uses the dimensions and heights/width of the terrain to create the perlin noise.
 
-Below shows how the inspector window should look like for terrain:
+Below shows how the inspector window should look like for the terrain:
 
 ![image](https://user-images.githubusercontent.com/104271448/165028443-b6e6b90f-7f80-4eaa-9036-1a6c5ddc1715.png)
 
@@ -58,7 +58,7 @@ Below shows how the inspector window should look like for terrain:
 
 
 
-for plane: 
+For the plane: 
 ![image](https://user-images.githubusercontent.com/104271448/165028500-bb158294-78ac-4f4d-9ce6-a26747b674d9.png)
 
 
@@ -75,7 +75,7 @@ for plane:
 * In the AgentMove.cs script the agent uses different waypoints to move around. This should be added into the Inspector Window in Unity. 
 
 
-Below shows how the inspector window should look like:
+Below shows how the inspector window should look like for the agent:
 
 ![image](https://user-images.githubusercontent.com/104271448/165028271-091e7d2c-6cf7-4c20-a257-04f9e56bf46d.png)
 
@@ -88,7 +88,7 @@ Below shows how the inspector window should look like:
 * The Enemy uses the shooting and rotate behaviour technqiues to attack the agent. 
 * The AdvancedEnemy.cs script explains the code. 
 
-Below shows how the inspector window should look like for enemy:
+Below shows how the inspector window should look like for the enemy:
 ![image](https://user-images.githubusercontent.com/104271448/165029524-52c520e4-16e7-4b8a-b5ef-e72645c61e9b.png)
 ![image](https://user-images.githubusercontent.com/104271448/165029568-db1c5be8-d01a-4ba1-8e18-81047543a7fb.png)
 
