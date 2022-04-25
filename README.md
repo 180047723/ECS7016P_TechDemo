@@ -20,7 +20,7 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 * Dowload the files. 
 * Open the files using Unity3D (Version 2020.3)
 * Inside the Scenes folder (Assets > Scenes > TechDemoScene) press the Techdemo.unity file.  
-* This shows the generator and agents as shown above. 
+* Press play and this will run the generator and agents (as shown above).
 * This will also show the different game objects in the hierarchy window as shown below. 
 
 ![image](https://user-images.githubusercontent.com/104271448/165041652-aa4ca4b2-5398-41f4-baed-60023587cd2b.png)
