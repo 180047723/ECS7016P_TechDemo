@@ -18,13 +18,10 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 * The project was built using Unity Version 2020.3
 * Prefabs folder contains all the game objects + materials. 
 * Dowload the files. 
-* Open Unity3D 
-* Drag the files into the Project window. 
-* Inside the Scenes folder (Assets > Scenes > TechDemoScene) drag the Techdemo.unity file into the Hierarchy window. 
-* This will show the different game objects and then you can play the scene. 
-
-The Hierarchy Window should look like this: 
-
+* Open the files using Unity3D (Version 2020.3)
+* Inside the Scenes folder (Assets > Scenes > TechDemoScene) press the Techdemo.unity file.  
+* This shows the generator and agents as shown above. 
+* This will also show the different game objects in the hierarchy window as shown below. 
 
 ![image](https://user-images.githubusercontent.com/104271448/165041652-aa4ca4b2-5398-41f4-baed-60023587cd2b.png)
 
