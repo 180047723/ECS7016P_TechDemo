@@ -73,6 +73,7 @@ For the plane:
 * The Agent (Green Capsule) uses the AgentMove.cs script located in the Agent folder (Assets > Agent > AgentMove.cs). 
 * The Agent uses the Wandering and Cover, Navigation Behaviour techniques to move and hide from the enemy. 
 * In the AgentMove.cs script the agent uses different waypoints to move around. This should be added into the Inspector Window in Unity. 
+* MAKE SURE YOU CHANGE THE SPEED IN THE AGENT AS ITS SET TO 0 (The agent will not move). INCREASE THE SPEED SO THAT THE AGENT CAN MOVE AROUNG. 
 
 
 Below shows how the inspector window should look like for the agent:
