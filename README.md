@@ -97,7 +97,7 @@ Below shows how the inspector window should look like for the enemy:
 -------------------------------------------------------------
 * Implemented some different technqiues to the generator like Wave Function Collapse (WFC) or Evolutionary algorithm. 
 * The movement of the agent could be advanced using Behaviour Trees or A* algorithm. 
-* Could of used some THIRD-PARTY Assets 
+* Could of used some THIRD-PARTY Assets.
 
 
 ### REFERENCES (Tutorials to help build generator and agent) 
