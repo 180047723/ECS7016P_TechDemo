@@ -28,11 +28,15 @@ Video Link: https://www.youtube.com/watch?v=xDA5jfo7tg4
 .........................................................................................................................
 
 Terrain Generator + Perlin noise: 
+
+
 https://www.youtube.com/user/brackeys
 https://www.youtube.com/c/SebastianLague
 
 
 Agent + Navigation + Behaviours: 
+
+
 https://www.youtube.com/c/CodeMonkeyUnity  
 https://www.youtube.com/c/KeySmashStudios/videos 
 https://www.youtube.com/channel/UCIWlCE2kt0RXCJLRp8HjhiQ
