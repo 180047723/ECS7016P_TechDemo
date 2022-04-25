@@ -99,7 +99,7 @@ Below shows how the inspector window should look like for the agent:
 * The Enemy uses the shooting and rotate behaviour techniques to attack the agent. 
 * The AdvancedEnemy.cs script explains the code. 
 
-* MAKE SURE YOU ASSIGN THE ENEMY AGENT(Enemy), GREEN AGENT(Agent) AND SHOOT (bullets) IN THE INSPECTOR WINDOW UNDER Advanced Enemy (Scirpt). 
+* MAKE SURE YOU ASSIGN THE ENEMY AGENT(Enemy), GREEN AGENT(Agent) AND SHOOT (bullets) IN THE INSPECTOR WINDOW UNDER Advanced Enemy (Script). 
 
 Below shows how the inspector window should look like for the enemy:
 ![image](https://user-images.githubusercontent.com/104271448/165029524-52c520e4-16e7-4b8a-b5ef-e72645c61e9b.png)
