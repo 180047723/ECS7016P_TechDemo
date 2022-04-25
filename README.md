@@ -106,7 +106,7 @@ Below shows how the inspector window should look like for the enemy:
 ![image](https://user-images.githubusercontent.com/104271448/165047190-70182792-b05f-45cd-8abd-3bb32cd36579.png)
 
 
-### PROJECT IMPROVEMENTS 
+### PROJECT IMPROVEMENTS
 -------------------------------------------------------------
 * Implemented some different techniques to the generator like Wave Function Collapse (WFC) or Evolutionary algorithm. 
 * The movement of the agent could be advanced using Behaviour Trees or A* algorithm. 
