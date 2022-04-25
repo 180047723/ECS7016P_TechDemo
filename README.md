@@ -81,7 +81,9 @@ For the plane:
 * The Agent uses the Wandering and Cover, Navigation Behaviour techniques to move and hide from the enemy. 
 * In the AgentMove.cs script the agent uses different waypoints to move around. This should be added into the Inspector Window in Unity. 
 
+
 * MAKE SURE YOU CHANGE THE SPEED FOR THE AGENT AS ITS SET TO 0 (The agent will not move). INCREASE THE SPEED SO THAT THE AGENT CAN MOVE AROUND (change in Inspector Window). 
+* MAKE SURE YOU ADD THE Waypoints in the inspector tab under the AgentMove.cs script. 
 
 
 Below shows how the inspector window should look like for the agent:
@@ -97,9 +99,11 @@ Below shows how the inspector window should look like for the agent:
 * The Enemy uses the shooting and rotate behaviour techniques to attack the agent. 
 * The AdvancedEnemy.cs script explains the code. 
 
+* MAKE SURE YOU ASSIGN THE ENEMY AGENT(Enemy), GREEN AGENT(Agent) AND SHOOT (bullets) IN THE INSPECTOR WINDOW UNDER Advanced Enemy (Scirpt). 
+
 Below shows how the inspector window should look like for the enemy:
 ![image](https://user-images.githubusercontent.com/104271448/165029524-52c520e4-16e7-4b8a-b5ef-e72645c61e9b.png)
-![image](https://user-images.githubusercontent.com/104271448/165029568-db1c5be8-d01a-4ba1-8e18-81047543a7fb.png)
+![image](https://user-images.githubusercontent.com/104271448/165047190-70182792-b05f-45cd-8abd-3bb32cd36579.png)
 
 
 ### PROJECT IMPROVEMENTS 
